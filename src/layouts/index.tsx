@@ -12,11 +12,14 @@ interface IndexProps {
   className?: string;
 }
 
+const mailChimpPopupScript = '!function(c,h,i,m,p){m = c.createElement(h), p = c.getElementsByTagName(h)[0], m.async = 1, m.src = i, p.parentNode.insertBefore(m, p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/d5ada51128e4dc290d94a6223/2bc4aa19a5bf221076a6a2b00.js");';
+
 const IndexLayout: React.FC<IndexProps> = props => {
   return (
     <div className={props.className}>
       <Helmet>
         <link rel="icon" href={favicon} type="image/x-icon" />
+        <script id="mcjs">{mailChimpPopupScript}</script>
       </Helmet>
       <Global
         styles={css`
