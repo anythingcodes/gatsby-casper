@@ -44,7 +44,6 @@ export const SubscribeForm: React.FC = () => {
   return (
     <>
       <form
-        noValidate
         css={SubscribeFormStyles}
         action={config.mailchimpAction}
         method="post"
