@@ -250,16 +250,16 @@ const SiteNavRight = styled.div`
   justify-content: flex-end;
   padding: 10px 0;
   height: 64px;
-
-  @media (max-width: 700px) {
-    display: none;
-  }
 `;
 
 const SocialLinks = styled.div`
   flex-shrink: 0;
   display: flex;
   align-items: center;
+
+  @media (max-width: 700px) {
+    display: none;
+  }
 `;
 
 const SubscribeButton = styled.a`

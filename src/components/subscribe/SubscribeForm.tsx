@@ -65,7 +65,7 @@ export const SubscribeForm: React.FC = () => {
           </div>
 
         </FormGroup>
-        <SubscribeFormButton type="submit">
+        <SubscribeFormButton type="submit" disabled={responseType === 'success'}>
           <span>Subscribe</span>
         </SubscribeFormButton>
 
@@ -175,6 +175,10 @@ const SubscribeFormButton = styled.button`
   :focus {
     /* background: color(var(--blue) lightness(-9%) saturation(-10%)); */
     background: ${saturate('-0.1', lighten('-0.09', colors.blue))};
+  }
+  :disabled {
+    background: ${colors.midgrey};
+    cursor: not-allowed;
   }
   @media (max-width: 500px) {
     margin: 10px 0 0 0;
