@@ -58,9 +58,9 @@ const config: WebsiteConfig = {
   facebook: 'https://www.facebook.com/ghost',
   twitter: 'https://twitter.com/tryghost',
   showSubscribe: true,
-  mailchimpAction: 'https://twitter.us19.list-manage.com/subscribe/post?u=a89b6987ac248c81b0b7f3a0f&amp;id=7d777b7d75',
-  mailchimpName: 'b_a89b6987ac248c81b0b7f3a0f_7d777b7d75',
-  mailchimpEmailFieldName: 'MERGE0',
+  mailchimpAction: 'https://show.us7.list-manage.com/subscribe/post?u=d5ada51128e4dc290d94a6223&amp;id=2f52a7be1f',
+  mailchimpName: 'b_d5ada51128e4dc290d94a6223_2f52a7be1f',
+  mailchimpEmailFieldName: 'EMAIL',
   googleSiteVerification: 'GoogleCode',
   footer: 'is based on Gatsby Casper',
 };
