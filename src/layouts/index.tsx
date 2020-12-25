@@ -19,6 +19,7 @@ const IndexLayout: React.FC<IndexProps> = props => {
     <div className={props.className}>
       <Helmet>
         <link rel="icon" href={favicon} type="image/x-icon" />
+        <meta httpEquiv="content-language" content="en" />
         <script id="mcjs">{mailChimpPopupScript}</script>
       </Helmet>
       <Global
