@@ -12,7 +12,7 @@ interface IndexProps {
   className?: string;
 }
 
-const mailChimpPopupScript = '!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/d5ada51128e4dc290d94a6223/4eae7f4446c3ad68fe68a4857.js");';
+const mailChimpPopupScript = '!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/d5ada51128e4dc290d94a6223/9626f6f725fc47fa41346aa3c.js");';
 
 const IndexLayout: React.FC<IndexProps> = props => {
   return (
