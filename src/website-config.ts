@@ -27,16 +27,11 @@ export interface WebsiteConfig {
   /**
    * create a list on mailchimp and then create an embeddable signup form. this is the form action
    */
-  mailchimpAction?: string;
+  mailchimpAction: string;
   /**
-   * this is the hidden input field name
+   * the hidden input field for the list ID
    */
-  mailchimpName?: string;
-  /**
-   * name and id of the mailchimp email field
-   */
-  mailchimpEmailFieldName?: string;
-  /**
+  mailchimpListId?: string;
   /**
    * Meta tag for Google Webmaster Tools
    */
@@ -58,9 +53,8 @@ const config: WebsiteConfig = {
   facebook: 'https://www.facebook.com/ghost',
   twitter: 'https://twitter.com/tryghost',
   showSubscribe: true,
-  mailchimpAction: 'https://show.us7.list-manage.com/subscribe/post?u=d5ada51128e4dc290d94a6223&amp;id=2f52a7be1f',
-  mailchimpName: 'b_d5ada51128e4dc290d94a6223_2f52a7be1f',
-  mailchimpEmailFieldName: 'EMAIL',
+  mailchimpAction: 'http://api.liz.show/subscribe',
+  mailchimpListId: '2f52a7be1f',
   googleSiteVerification: 'GoogleCode',
   footer: 'is based on Gatsby Casper',
 };

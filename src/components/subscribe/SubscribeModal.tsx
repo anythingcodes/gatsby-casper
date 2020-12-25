@@ -120,7 +120,7 @@ const SubscribeOverlay = styled.div<SubscribeOverlayProps>`
     padding: 14px 20px;
     width: 100%;
     border: none;
-    color: ${colors.midgrey};
+    color: ${colors.whitegrey};
     font-size: 2rem;
     line-height: 1em;
     font-weight: normal;
