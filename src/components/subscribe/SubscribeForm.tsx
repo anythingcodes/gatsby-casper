@@ -12,10 +12,7 @@ export const SubscribeForm: React.FC = () => {
   const [message, setMessage] = useState(null);
   const [responseType, setResponseType] = useState(null);
 
-  const handleChange = evt => {
-    console.log(evt.target.value);
-    setEmail(evt.target.value);
-  };
+  const handleChange = evt => setEmail(evt.target.value);
 
   const handleSubmit = async evt => {
     evt.preventDefault();

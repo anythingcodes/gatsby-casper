@@ -44,19 +44,19 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: 'Ghost',
-  description: 'The professional publishing platform',
+  title: 'Liz Makes Things',
+  description: 'DIY, software engineering, art, crafting, and everything in between.',
   coverImage: 'img/blog-cover.png',
   logo: 'img/ghost-logo.png',
   lang: 'en',
   siteUrl: 'https://www.liz.show',
-  facebook: 'https://www.facebook.com/ghost',
-  twitter: 'https://twitter.com/tryghost',
+  // facebook: 'https://www.facebook.com/ghost',
+  // twitter: 'https://twitter.com/tryghost',
   showSubscribe: true,
-  mailchimpAction: 'http://api.liz.show/subscribe',
+  mailchimpAction: 'https://liz-show-mailchimp.herokuapp.com/subscribe',
   mailchimpListId: '2f52a7be1f',
-  googleSiteVerification: 'GoogleCode',
-  footer: 'is based on Gatsby Casper',
+  // googleSiteVerification: 'GoogleCode',
+  // footer: 'is based on Gatsby Casper',
 };
 
 export default config;
