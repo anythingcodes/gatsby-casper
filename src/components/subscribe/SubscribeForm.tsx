@@ -13,6 +13,7 @@ export const SubscribeForm: React.FC = () => {
   const [responseType, setResponseType] = useState(null);
 
   const handleChange = evt => {
+    console.log(evt.target.value);
     setEmail(evt.target.value);
   };
 
@@ -50,7 +51,6 @@ export const SubscribeForm: React.FC = () => {
         id="mc-embedded-subscribe-form"
         name="mc-embedded-subscribe-form"
         className="subscribe-form"
-        onChange={handleChange}
         onSubmit={handleSubmit}
       >
         <FormGroup className="form-group">
@@ -58,6 +58,7 @@ export const SubscribeForm: React.FC = () => {
             className="subscribe-email"
             type="email"
             placeholder="youremail@example.com"
+            onChange={handleChange}
           />
           <div style={{ position: 'absolute', left: '-5000px' }} aria-hidden="true">
             <input type="hidden" name={config.mailchimpListId} tabIndex={-1} />
