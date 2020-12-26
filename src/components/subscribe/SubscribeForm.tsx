@@ -51,7 +51,9 @@ export const SubscribeForm: React.FC = () => {
         onSubmit={handleSubmit}
       >
         <FormGroup className="form-group">
+          <HiddenLabel htmlFor="subscribe-email">Email</HiddenLabel>
           <SubscribeEmail
+            id="subscribe-email"
             className="subscribe-email"
             name="email"
             type="email"
@@ -72,6 +74,15 @@ export const SubscribeForm: React.FC = () => {
     </>
   );
 };
+
+const HiddenLabel = styled.label`
+  position: absolute;
+  height: 1px;
+  width: 1px;
+  clip: rect(1px, 1px, 1px, 1px);
+  border: 0px;
+  overflow: hidden;
+`;
 
 const Message = styled(({ responseType: __responseType, ...rest }) => (
   <div {...rest} />
