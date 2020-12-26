@@ -12,13 +12,7 @@ module.exports = {
   },
   plugins: [
     'gatsby-plugin-sitemap',
-    {
-      resolve: 'gatsby-plugin-sharp',
-      options: {
-        defaultQuality: 100,
-        stripMetadata: true,
-      },
-    },
+    'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
