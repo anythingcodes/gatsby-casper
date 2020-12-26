@@ -8,6 +8,8 @@ import SiteNav from '../components/header/SiteNav';
 import { PostFullContent } from '../components/PostContent';
 import { Wrapper } from '../components/Wrapper';
 import IndexLayout from '../layouts';
+import MichelleImg from '../content/img/liz-michelle-nbd.jpg';
+
 import {
   inner,
   outer,
@@ -51,49 +53,33 @@ const About: React.FC = () => (
         <div css={inner}>
           <article className="post page" css={[PostFull, NoImage]}>
             <PostFullHeader className="post-full-header">
-              <PostFullTitle className="post-full-title">About</PostFullTitle>
+              <PostFullTitle className="post-full-title">About Liz</PostFullTitle>
             </PostFullHeader>
 
             <PostFullContent className="post-full-content">
               <div className="post-content">
-                <h5>
-                  A starter template for Gatsby <br /> GitHub: <a href="https://github.com/scttcper/gatsby-casper">scttcper/gatsby-casper</a>
-                </h5>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo finibus leo,
-                  non tempus magna vehicula ac. Maecenas mollis ante finibus pharetra imperdiet.
-                  Maecenas in aliquam purus. Nam et massa a nulla fermentum dapibus sit amet in
-                  neque. Ut ipsum ipsum, rhoncus a sodales pellentesque, interdum a elit. Nullam
-                  aliquam tellus nibh, eget laoreet dui aliquet non. Vestibulum malesuada ante at
-                  diam tempus, ac interdum risus scelerisque. Sed ipsum neque, vulputate porta diam
-                  eget, consequat blandit nulla. Integer volutpat velit vitae purus lacinia aliquam.
-                  Integer bibendum ipsum vitae magna pulvinar, nec vehicula dolor vulputate. Nulla
-                  eu massa id orci placerat finibus vel sit amet eros. Vestibulum quis consequat
-                  massa. Sed sagittis sollicitudin massa at commodo. Praesent diam nisi, imperdiet
-                  posuere eleifend nec, blandit ac massa.
-                </p>
-                <p>
-                  Vestibulum semper pretium ipsum nec congue. Ut ac eros nisi. Donec leo sem,
-                  aliquam mollis sapien ultrices, dapibus congue diam. Proin viverra dapibus
-                  blandit. Ut mauris tellus, tristique id felis vel, venenatis vestibulum nunc. Nam
-                  molestie pulvinar nibh, eget egestas augue. Maecenas tellus arcu, mattis ut ipsum
-                  non, sollicitudin convallis nunc. Donec nec neque tristique, aliquet lacus id,
-                  laoreet nunc. Cras dapibus nisi nulla, ullamcorper faucibus neque suscipit ac.
-                  Donec eget orci venenatis justo lobortis volutpat. Proin vel placerat nisl.
-                  Integer arcu nunc, sodales eu fringilla non, aliquam non diam. Cras placerat,
-                  massa et faucibus pretium, ante elit tincidunt tellus, tristique ultricies velit
-                  quam et massa.
-                </p>
-                <p>
-                  In nunc lacus, dapibus vitae lacus sit amet, efficitur iaculis neque. Suspendisse
-                  ut tellus quis leo vestibulum tincidunt. Aenean nec enim ac dolor lacinia semper.
-                  Ut sed laoreet libero. Nunc elementum sollicitudin accumsan. Nunc eu augue neque.
-                  Proin a tortor nibh. Cras eu nisl ornare sapien feugiat pellentesque. Mauris
-                  dignissim vel quam eu pellentesque. Integer sit amet posuere quam, eu ullamcorper
-                  odio. Nullam a lacus tempus sapien dignissim ullamcorper. In hac habitasse platea
-                  dictumst. Proin quis massa aliquam, feugiat tortor sit amet, tincidunt urna. Donec
-                  posuere pulvinar lectus, ac semper ipsum vulputate quis.
-                </p>
+                <h5>By Day</h5>
+
+                <p>Hey there! I'm Liz. I'm a Senior Software Engineer at <a href="https://www.hubspot.com" target="_blank">HubSpot</a> working on the <a href="https://canvas.hubspot.com" target="_blank">Canvas design system</a>, a React-based design system used by hundreds of engineers, designers, content producers, and more. Given hundreds of people rely on this system, I aim for performance and reliabilty in any code I ship, and bring these best practices to the forefront in any code-related articles in this blog.</p>
+
+                <p><img src={MichelleImg} alt="Friends and I flexing with Michelle Obama, NBD." className="float-right" />I love teaching code and pride myself in creating courses with real-world, tangible examples to illustrate seemingly-mystifying concepts. I'm a fan of technical author <a href="https://adit.io/" target="_blank">Aditya Bhargava</a>'s playful, approachable writing style and try my damndest to emulate that. I believe that every seemingly-complicated concept (specific algorithms, machine learning, you name it) can be broken down and explained in an approachable, inviting manner. In doing so, the teacher will become a better engineer/developer and well-rounded helpful person. That's my hope with this blog!</p>
+
+                <p>Through my teaching career, I've been involved with wonderful educational organizations like <a href="https://generalassemb.ly/" target="_blank">General Assembly</a>, <a href="https://www.womenwhocode.com/" target="_blank">Women Who Code</a>, and <a href="https://www.girldevelopit.com" target="_blank">Girl Develop It</a>, among others. I founded the Boston chapter of <a href="https://www.hiretechladies.com/">Tech Ladies</a>.</p>
+
+                <h5>By Night</h5>
+                <p>I have always loved <em>making things</em>. I have a tendency to look at the things around me and think "I could make that." As you can imagine, that can balloon into a lot of different <em>things</em>. This blog aims to catalog all my various construction pursuits.</p>
+
+                <p>On a personal level, I absolutely love coding. Even though, yes, it's my day job, I often spend the weekends hacking around with some technology or another I haven't fiddled around with yet. I got my first taste of code when I was a preteen building online games and deploying them over FTP on a dial-up connection (😱 the horror).</p>
+
+                <p>I really enjoy strategy board games. Recently I've been on a <a href="http://awakenrealms.com/games/nemesis/" target="_blank">Nemesis</a> kick, though always enjoy an intense session of <a href="https://boardgamegeek.com/boardgame/169786/scythe" target="_blank">Scythe</a> or chess.</p>
+
+                <p>I'm also a huge movie nerd. One of my favorites is the 1979 film <em>Alien</em> (and sci-fi and/or horror in general), so many of my nerdier crafty pursuits are relevant to my favorite films. I'm also a major Halloween fan, tending towards spookier costumes involving lots of craftiness, time, and effort.</p>
+
+                <p>I enjoy exercising and occasionally run half marathons as an excuse to jog through the neighborhoods of a city that's new to me (most recently, Vancouver). Weightlifting and strength training are my favorite kinds of exercise, hands down — I like seeing my strength increase. 💪</p>
+
+                <p>Though I haven't been doing much of it in 2020, I really love traveling. My go-to travel recommendation site is <a href="https://www.atlasobscura.com/" target="_blank">Atlas Obscura</a>, a treasure trove of lesser-known attractions with quirky backstories.</p>
+
+                <p>Nice to e-meet you!</p>
               </div>
             </PostFullContent>
           </article>

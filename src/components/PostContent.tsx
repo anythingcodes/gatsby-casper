@@ -131,6 +131,14 @@ export const PostFullContent = styled.section`
     margin: 1.5em auto;
     max-width: 1040px;
     height: auto;
+
+    &.float-right {
+      @media (min-width: 1041px) {
+        margin: 0 0 0 1em;
+        max-width: 50%;
+        float: right;
+      }
+    }
   }
   @media (max-width: 1040px) {
     img,
