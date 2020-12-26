@@ -4,7 +4,7 @@ const path = require('path');
 module.exports = {
   siteMetadata: {
     title: 'Liz Makes Things',
-    description: 'DIY, software engineering, crafts, and all manner of constructable things.',
+    description: 'Software engineering, crafts, upcycling, and all manner of constructable things.',
     siteUrl: 'https://www.liz.show', // full path to blog - no ending slash
   },
   mapping: {
