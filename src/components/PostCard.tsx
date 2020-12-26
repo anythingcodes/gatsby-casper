@@ -11,6 +11,7 @@ import styled from '@emotion/styled';
 import { colors } from '../styles/colors';
 import { PageContext } from '../templates/post';
 import { AuthorList } from './AuthorList';
+import { getTags } from '../util/tags';
 
 export interface PostCardProps {
   post: PageContext;
@@ -47,11 +48,9 @@ export const PostCard: React.FC<PostCardProps> = ({ post, large = false }) => {
       <PostCardContent className="post-card-content">
         <Link className="post-card-content-link" css={PostCardContentLink} to={post.fields.slug}>
           <PostCardHeader className="post-card-header">
-            {post.frontmatter.tags && (
-              <PostCardPrimaryTag className="post-card-primary-tag">
-                {post.frontmatter.tags[0]}
-              </PostCardPrimaryTag>
-            )}
+            <PostCardPrimaryTagWrapper>
+              {post.frontmatter.tags && getTags(post.frontmatter.tags, PostCardPrimaryTag, { className: 'post-card-primary-tag' })}
+            </PostCardPrimaryTagWrapper>
             <PostCardTitle className="post-card-title">{post.frontmatter.title}</PostCardTitle>
           </PostCardHeader>
           <PostCardExcerpt className="post-card-excerpt">
@@ -145,6 +144,20 @@ const PostCardLarge = css`
   }
 `;
 
+const PostCardPrimaryTagWrapper = styled.div`
+  margin: 0 0 0.2em;
+  color: ${colors.midgrey};
+`;
+
+const PostCardPrimaryTag = styled.span`
+  /* color: var(--blue); */
+  color: ${colors.blue};
+  font-size: 1.2rem;
+  font-weight: 500;
+  letter-spacing: 0.2px;
+  text-transform: uppercase;
+`;
+
 const PostCardImageLink = css`
   position: relative;
   display: block;
@@ -178,16 +191,6 @@ const PostCardContentLink = css`
   :hover {
     text-decoration: none;
   }
-`;
-
-const PostCardPrimaryTag = styled.div`
-  margin: 0 0 0.2em;
-  /* color: var(--blue); */
-  color: ${colors.blue};
-  font-size: 1.2rem;
-  font-weight: 500;
-  letter-spacing: 0.2px;
-  text-transform: uppercase;
 `;
 
 const PostCardTitle = styled.h2`
