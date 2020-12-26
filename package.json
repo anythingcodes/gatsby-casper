@@ -10,9 +10,9 @@
     "dev": "gatsby develop",
     "lint": "eslint --ext .js,.ts,.tsx .",
     "lint:fix": "eslint --fix --ext .js,.ts,.tsx .",
-    "new:post": "node utility/new-post.js",
     "start": "npm run dev",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "write:post": "node utility/new-post.js"
   },
   "dependencies": {
     "@emotion/react": "11.1.2",

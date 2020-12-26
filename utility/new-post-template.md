@@ -6,11 +6,8 @@ tags: ['DIY']
 image: img/writing.jpg
 date: '$DATE'
 draft: false
----
-
-Excerpt
+excerpt: 🚀
 
 ---
-
 # The content
 

@@ -3,8 +3,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const pathToFile = path.join(__dirname, 'new-post.md');
-const pathToNewDestination = path.join(__dirname, '../src/content', 'new.md');
+const pathToFile = path.join(__dirname, 'new-post-template.md');
+const pathToNewDestination = path.join(__dirname, '../src/content', '_POST.md');
 
 try {
   fs.copyFileSync(pathToFile, pathToNewDestination);
