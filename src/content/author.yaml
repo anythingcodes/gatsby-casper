@@ -1,7 +1,8 @@
 - id: Liz
   avatar: avatars/liz.png
-  bio: Senior software engineer and maker
-  location: New York
+  bio: Senior Software Engineer and maker
+  location: Bostonian in Rochester, NY
+  profile_image: img/boston.jpg
 - id: Another Author
   avatar: avatars/ghost.png
   bio: This is another test author with a profile background image
