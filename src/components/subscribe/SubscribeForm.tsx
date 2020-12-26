@@ -53,6 +53,7 @@ export const SubscribeForm: React.FC = () => {
         <FormGroup className="form-group">
           <SubscribeEmail
             className="subscribe-email"
+            name="email"
             type="email"
             placeholder="youremail@example.com"
             onChange={handleChange}
