@@ -47,7 +47,7 @@ const config: WebsiteConfig = {
   title: 'Liz Makes Things',
   description: 'DIY, software engineering, art, crafting, and everything in between.',
   coverImage: 'img/blog-cover.png',
-  logo: 'img/ghost-logo.png',
+  logo: 'img/logo-lizmakesthings.png',
   lang: 'en',
   siteUrl: 'https://www.liz.show',
   // facebook: 'https://www.facebook.com/ghost',

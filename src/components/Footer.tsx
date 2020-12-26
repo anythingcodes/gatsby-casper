@@ -33,7 +33,7 @@ export const Footer: React.FC = () => {
             </a>
           )}
 
-          <a href="/rss.xml">RSS</a>
+          <a href="/rss.xml" target="_blank">RSS</a>
         </SiteFooterNav>
       </div>
     </footer>
