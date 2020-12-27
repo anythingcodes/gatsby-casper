@@ -16,7 +16,7 @@ I then remembered the poster for <em>Metropolis</em>.
 
 ![Metropolis poster](img/2018-12-27/metropolis.jpg)
 
-It's such a bold, imposing illustration that sticks in your mind. I knew I wanted to allude to it somehow.
+It's such a bold, imposing illustration that sticks in your mind. I wanted to reference it somehow.
 
 It was a good day. I listened to Siouxsie and the Banshees while busting out these spreads in time for 2019. Quite happy with how it turned out!
 
