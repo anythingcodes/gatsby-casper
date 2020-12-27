@@ -120,7 +120,15 @@ Still need to paint but things are structurally sound. 💃
 
 I'm really proud of all we accomplished. It was oodles of hard labor and unexpected hurdles, but we made it through. Plus, if we wind up contracting someone in the future, now we know an awful lot more about the terminology and processes. In my opinion we'll be able to speak more competently and knowledgably with a construction professional.
 
-I also started reading <em><a href="https://www.barnesandnoble.com/w/the-interior-design-handbook-frida-ramstedt/1136319520" target="_blank">The Interior Design Handbook</a></em>, a beautiful Scandinavian book on interior design principles.
+Of course being the insufferable computer nerd that I am, I taught myself how to use <a href="https://www.sketchup.com/" target="_blank">SketchUp</a>, a 3D design tool, before doing any demolition.
+
+<video controls loop autoplay width="100%">
+  <source src="img/2020-12-27/sketchup-bathroom.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+I also started reading <em><a href="https://www.barnesandnoble.com/w/the-interior-design-handbook-frida-ramstedt/1136319520" target="_blank">The Interior Design Handbook</a></em>, a beautiful Scandinavian book on interior design principles, and took a few fab courses by <a href="https://www.erinnvdesign.com/" target="_blank">Erinn V. Design</a>.
 
 <p>
   <a href="https://www.barnesandnoble.com/w/the-interior-design-handbook-frida-ramstedt/1136319520" target="_blank">
