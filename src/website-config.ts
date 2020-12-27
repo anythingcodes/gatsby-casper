@@ -2,6 +2,7 @@ export interface WebsiteConfig {
   title: string;
   description: string;
   coverImage?: string;
+  ogImage?: string;
   logo: string;
   /**
    * Specifying a valid BCP 47 language helps screen readers announce text properly.
@@ -47,6 +48,7 @@ const config: WebsiteConfig = {
   title: 'Liz Makes Things',
   description: 'Software engineering, crafts, upcycling, and all manner of constructable things.',
   coverImage: 'img/pages/space.jpg',
+  ogImage: 'img/pages/og-image.jpg',
   logo: 'img/logo-lizmakesthings.png',
   lang: 'en',
   siteUrl: 'https://www.liz.show',
