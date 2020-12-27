@@ -78,7 +78,7 @@ So, fast-forward to the start of 2020, pre-pandemic. I have a cool new job. I'm 
 
 I buy a walking-speed-only desk treadmill (thanks to some YNAB budgeting first, of course!) so I can walk during meetings. At this time, lockdowns are beginning. Luckily, some of my coworkers are also interested in keeping physically fit. A few start offering online sessions: Barre, general strength training, sculpt yoga, and dance, to name a few. I was able to try tons of new workouts I ordinarily wouldn't have from home alongside my gracious coworkers.
 
-Now, at the end of 2020, my body fat is down and I've lost a little over 10 pounds. 💪 More importantly, I'm eating healthier and not drinking nearly as much. I'm also finally settling into my new job. I was admittedly not in a great place mentally at first given my recent rough startup experience and then COVID.
+Now, at the end of 2020, my body fat is down and I've lost a little over 10 pounds. 💪 More importantly, I'm eating healthier and not drinking nearly as much. I'm also finally settling into my new job. I was admittedly not in a great place mentally at first given my recent rough startup experience and the non-stop nightmare fuel that is 2020.
 
 ## Brewing
 
