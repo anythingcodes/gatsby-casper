@@ -8,7 +8,7 @@ import SiteNav from '../components/header/SiteNav';
 import { PostFullContent } from '../components/PostContent';
 import { Wrapper } from '../components/Wrapper';
 import IndexLayout from '../layouts';
-import MichelleImg from '../content/img/liz-michelle-nbd.jpg';
+import MichelleImg from '../content/img/pages/liz-michelle-nbd.jpg';
 
 import {
   inner,

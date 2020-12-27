@@ -46,7 +46,7 @@ export interface WebsiteConfig {
 const config: WebsiteConfig = {
   title: 'Liz Makes Things',
   description: 'Software engineering, crafts, upcycling, and all manner of constructable things.',
-  coverImage: 'img/space.jpg',
+  coverImage: 'img/pages/space.jpg',
   logo: 'img/logo-lizmakesthings.png',
   lang: 'en',
   siteUrl: 'https://www.liz.show',

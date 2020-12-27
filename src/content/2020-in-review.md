@@ -110,13 +110,15 @@ There was also carpeted flooring, and we discovered several rotted floor plates 
 
 ### After
 
+🌟 ⭐ 💆‍♀️
+
 ![New vanity and plumbing](img/2020-12-27/vanity.jpg)
 
 ![Bathtub and new plumbing](img/2020-12-27/painted-bathtub.jpg)
 
 Still need to paint but things are structurally sound. 💃
 
-I'm really proud of all we accomplished. It was a <em>ton</em> of hard labor and unexpected hurdles, but we made it through. Plus, if we wind up contracting someone in the future, now we know an awful lot more about the terminology and processes. In my opinion we'll be able to speak more competently and knowledgably with a construction professional.
+I'm really proud of all we accomplished. It was oodles of hard labor and unexpected hurdles, but we made it through. Plus, if we wind up contracting someone in the future, now we know an awful lot more about the terminology and processes. In my opinion we'll be able to speak more competently and knowledgably with a construction professional.
 
 I also started reading <em><a href="https://www.barnesandnoble.com/w/the-interior-design-handbook-frida-ramstedt/1136319520" target="_blank">The Interior Design Handbook</a></em>, a beautiful Scandinavian book on interior design principles.
 
@@ -128,7 +130,7 @@ I also started reading <em><a href="https://www.barnesandnoble.com/w/the-interio
 
 ## Games
 
-In our housebound life, we played a lot of chess and Nemesis. I was pumped that, earlier this year, Nemesis dropped another <a href="https://www.kickstarter.com/projects/awakenrealms/nemesis-lockdown" target="_blank">Kickstarter</a> that I excitedly backed. It's a superb game and I'm excited for the first wave of shipments arriving around February.
+In our housebound life, we played a lot of chess and Nemesis. I was pumped that, earlier this year, the Nemesis crew dropped another <a href="https://www.kickstarter.com/projects/awakenrealms/nemesis-lockdown" target="_blank">Kickstarter</a> that I excitedly backed. It's a superb game and I'm excited for the first wave of shipments arriving around February.
 
 <p>
   <img src="img/2020-12-27/nemesis.jpg" alt="Nemesis Lockdown Kickstarter" />
@@ -148,7 +150,7 @@ Aside from that, I listened to lots of old favorites: Black Sabbaaaath 🤘, The
 
 Okay, I watched <em>loads</em> of movies this year, but these two releases capture the zeitgeist of 2020 in different ways.
 
-### Hunter Hunter (2020)
+**Hunter Hunter (2020)**
 
 <p>
   <img src="img/2020-12-27/hunter-hunter-2020-movie.jpg" alt="Hunter Hunter" />
@@ -156,7 +158,7 @@ Okay, I watched <em>loads</em> of movies this year, but these two releases captu
 
 Not for the faint of heart, this survival thriller is shot in the beautiful Canadian wilderness and involves only a handful of characters to really capture that isolated and arguably stranded tension. Even if you guess the premise halfway through, the ending will surprise you. It's incredibly dark, but extremely well done.
 
-### Host (2020)
+**Host (2020)**
 
 <p>
   <img src="img/2020-12-27/host-2020.jpg" alt="Host" />
@@ -168,4 +170,4 @@ It's essentially about an evil spirit who joins a Zoom meeting. Yup. It's great.
 
 ## That's a wrap!
 
-Well, 2020, you were an experience unlike any other, that's for sure.
+Well, 2020, you were an experience unlike any other, that's for sure. Peace out.
