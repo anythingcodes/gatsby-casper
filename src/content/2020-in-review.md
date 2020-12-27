@@ -42,7 +42,7 @@ I also got deep in the woods with documentation tools, mostly <a href="https://s
 
 ## Personal Finance
 
-We had tried working with a fiduciary a while back but the situation fired off red flags left and right. We were pressured into opening a brokerage and life insurance policy because, turns out, this person would get a substantial kickback. (We didn't <em>actually</em> open those accounts, but the suggestion raised some eyebrows.)
+We had tried working with a fiduciary a while back but the situation raised red flags left and right. We were pressured into opening a brokerage and life insurance policy because, turns out, this person would get a substantial kickback. (We didn't <em>actually</em> open those accounts, but the suggestion raised some eyebrows.)
 
 I broke off that relationship and left that experience annoyed. This year, I decided to take matters into my own hands. It's just math, right?
 
