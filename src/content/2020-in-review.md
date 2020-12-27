@@ -106,7 +106,7 @@ Apologies for the gross before photos (🤮), but just to illustrate how urgentl
 
 ![Gross rotten gloor](img/2020-12-27/gross.jpg)
 
-There was originally carpet with no moisture-resistant material beneath. We discovered several rotted floor plates and other structural 2x4s as we started to peel back the layers of the bathroom.
+There was originally carpet with no moisture-resistant material beneath. We discovered several rotted floor plates and other rotten structural 2x4s as we started to peel back the layers of the bathroom.
 
 ### After
 
