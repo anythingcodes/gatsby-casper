@@ -153,7 +153,7 @@ export const pageQuery = graphql`
         }
       }
     }
-    header: file(relativePath: { eq: "img/pages/space.jpg" }) {
+    header: file(relativePath: { eq: "img/og-image.jpg" }) {
       childImageSharp {
         # Specify the image processing specifications right in the query.
         # Makes it trivial to update as your page's design changes.
