@@ -71,13 +71,17 @@ const About: React.FC = () => (
 
                 <p>On a personal level, I absolutely love coding. Even though, yes, it's my day job, I often spend the weekends hacking around with some technology or another I haven't fiddled around with yet. I got my first taste of code when I was a preteen building online games and deploying them over FTP on a dial-up connection (😱 the horror).</p>
 
-                <p>I really enjoy strategy board games. Recently I've been on a <a href="http://awakenrealms.com/games/nemesis/" target="_blank">Nemesis</a> kick, though always enjoy an intense session of <a href="https://boardgamegeek.com/boardgame/169786/scythe" target="_blank">Scythe</a> or chess.</p>
+                <p>Some other things I enjoy include:</p>
 
-                <p>I'm also a huge movie nerd. One of my favorites is the 1979 film <em>Alien</em> (and sci-fi and/or horror in general), so many of my nerdier crafty pursuits are relevant to my favorite films. I'm also a major Halloween fan, tending towards spookier costumes involving lots of craftiness, time, and effort.</p>
-
-                <p>I enjoy exercising and occasionally run half marathons as an excuse to jog through the neighborhoods of a city that's new to me (most recently, Vancouver). Weightlifting and strength training are my favorite kinds of exercise, hands down — I like seeing my strength increase. 💪</p>
-
-                <p>Though I haven't been doing much of it in 2020, I really love traveling. My go-to travel recommendation site is <a href="https://www.atlasobscura.com/" target="_blank">Atlas Obscura</a>, a treasure trove of lesser-known attractions with quirky backstories.</p>
+                <ul>
+                  <li>Strategy board games, notably <a href="http://awakenrealms.com/games/nemesis/" target="_blank">Nemesis</a>, <a href="https://boardgamegeek.com/boardgame/169786/scythe" target="_blank">Scythe</a>, or chess</li>
+                  <li>Halloween and spooky costumes</li>
+                  <li>Exercising — weightlifing and strength training being my favorite 💪</li>
+                  <li>Traveling the world. <a href="https://www.atlasobscura.com/" target="_blank">Atlas Obscura</a> is my go-to site for tourist recommendations — it's a treasure trove of lesser-known attractions with quirky backstories.</li>
+                  <li>Thrifting and upcycling</li>
+                  <li>Museums</li>
+                  <li>The 1979 film <em><a href="https://www.imdb.com/title/tt0078748/" target="_blank">Alien</a></em></li>
+                </ul>
 
                 <p>Nice to e-meet you!</p>
               </div>
